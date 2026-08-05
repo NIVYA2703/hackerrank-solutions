@@ -8,19 +8,6 @@ This repository contains my solutions to coding problems solved as part of my co
 * Language: Python
 * Focus: Problem solving, logic building, and optimization
 
-## Repository Structure
-
-The solutions are organized by topic for clarity and easy navigation:
-
-```
-Arrays/
-Strings/
-Recursion/
-Searching/
-Sorting/
-```
-
-Each file contains a solution to a specific problem with meaningful naming for better understanding.
 
 ## Approach
 
@@ -35,7 +22,11 @@ For each problem, I aim to:
 
 | File Name            | Description                                   |
 | -------------------- | --------------------------------------------- |
-|Day 1                 | Python Basic code
+|Day 1                 | Python Basic code                             |
+|Day 2                 | python Basic code                             |
+|Day 3                | python Basic code                             |
+|Day 4                 | python Basic code                             |
+|Day 5                 | python Basic code                             |
 
 ## How to Use
 
